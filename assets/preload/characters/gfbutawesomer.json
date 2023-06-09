@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				345
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				348
+			],
+			"anim": "man",
+			"fps": 10,
+			"name": "man",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/gfbutawesomer",
+	"position": [
+		-40,
+		400
+	],
+	"healthicon": "bfbutawesome",
+	"flip_x": false,
+	"healthbar_colors": [
+		13,
+		255,
+		0
+	],
+	"camera_position": [
+		100,
+		-370
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"awesome",
+			"cyan",
+			[
+				66,
+				215,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "AWESOME",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "awesome",
+	"weekName": "awesome",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

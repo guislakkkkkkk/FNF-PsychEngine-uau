@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				294,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				253,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				261,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				251,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourplebutawesome",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "ourpleguybutawesome",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		244,
+		255
+	],
+	"camera_position": [
+		-90,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

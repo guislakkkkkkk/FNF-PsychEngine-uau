@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfbutawesome.png">
+<SubTexture name="bfbutawesome idle0000" x="0" y="0" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome down0000" x="280" y="0" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome down0001" x="560" y="0" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome right0000" x="0" y="346" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome right0001" x="280" y="346" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome left0000" x="560" y="346" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome left0001" x="840" y="0" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome up0000" x="840" y="346" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome up0001" x="0" y="692" width="280" height="346" frameX="-247" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfbutawesome miss0000" x="280" y="692" width="414" height="337" frameX="-202" frameY="-263" frameWidth="800" frameHeight="800" />
+</TextureAtlas>
